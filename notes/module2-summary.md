@@ -19,7 +19,7 @@ Finalmente, aprendí a convertir variables categóricas a formato numérico usan
 
 ---
 
-## Conclusión del día 1
+## Conclusión del día 3
 El **Día 1 del Módulo 2** dejó claro que sin datos ordenados no hay ciencia de datos que sobreviva.  
 Dominar la transformación, normalización, agrupación y codificación de variables me permite trabajar con datasets más limpios, coherentes y útiles.
 
