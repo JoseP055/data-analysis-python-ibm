@@ -135,4 +135,4 @@ Completing this course grants:
 
 ## Final Note
 
-This repository represents a personal and professional learning journey into the world of Data Analysis using Python — blending programming, statistics, and data storytelling to turn information into knowledge
+This repository represents a personal and professional learning journey into the world of Data Analysis using Python — blending programming, statistics, and data storytelling to turn information into knowledge.
