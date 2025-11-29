@@ -26,4 +26,5 @@ Hoy entendí que el EDA es ese puente mágico entre datos crudos y decisiones in
 Exploré estadísticas descriptivas, analicé distribuciones y creé visualizaciones que me permitieron ver patrones que antes eran invisibles. Confirmé que antes de correr cualquier modelo, **hay que conversar con los datos**… y hoy empezamos a hablar el mismo idioma.
 
 Este día estuvo cargado de correlaciones, mapas de calor y relaciones causa-efecto que empiezan a dibujar historias.  
-El coeficiente de Pearson y el p-value se convirtieron en aliados para validar mis conclusiones. Aprendí a usar gráficos con línea de regresión para interpretar tendencias con elegancia y precisión. Cerré el día entendiendo que el EDA no solo es análisis: es *intuición guiada por evidencia*..
+El coeficiente de Pearson y el p-value se convirtieron en aliados para validar mis conclusiones. Aprendí a usar gráficos con línea de regresión para interpretar tendencias con elegancia y precisión. Cerré el día entendiendo que el EDA no solo es análisis: es *intuición guiada por evidencia*...
+"Estudios pausado"
